@@ -1,0 +1,7 @@
+opencv-python
+numpy
+ffmpeg-python
+torch
+torchvision
+insightface
+onnxruntime-gpu
